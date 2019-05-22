@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/kklis/gomemcache"
-	"github.com/rightjoin/aero/key"
+	"github.com/mayur-tolexo/aero/key"
 )
 
 type Memcache struct {

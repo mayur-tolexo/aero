@@ -5,10 +5,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rightjoin/aero/conf"
-	"github.com/rightjoin/aero/db/cstr"
-	"github.com/rightjoin/aero/engine"
-	"github.com/rightjoin/aero/key"
+	"github.com/mayur-tolexo/aero/conf"
+	"github.com/mayur-tolexo/aero/db/cstr"
+	"github.com/mayur-tolexo/aero/engine"
+	"github.com/mayur-tolexo/aero/key"
 )
 
 type Cacher interface {

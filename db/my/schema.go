@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	"github.com/jinzhu/gorm"
-	"github.com/rightjoin/aero/refl"
-	"github.com/rightjoin/aero/str"
+	"github.com/mayur-tolexo/aero/refl"
+	"github.com/mayur-tolexo/aero/str"
 )
 
 var Dbo *gorm.DB

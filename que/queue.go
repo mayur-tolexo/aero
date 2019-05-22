@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rightjoin/aero/conf"
-	"github.com/rightjoin/aero/db/cstr"
-	"github.com/rightjoin/aero/engine"
+	"github.com/mayur-tolexo/aero/conf"
+	"github.com/mayur-tolexo/aero/db/cstr"
+	"github.com/mayur-tolexo/aero/engine"
 )
 
 type Queue interface {

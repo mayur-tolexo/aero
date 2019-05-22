@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/rightjoin/aero/ds"
+	"github.com/mayur-tolexo/aero/ds"
 )
 
 // Add support for Json fields

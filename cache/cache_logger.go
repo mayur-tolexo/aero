@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/mayur-tolexo/aero/key"
 	"github.com/mgutz/logxi/v1"
-	"github.com/rightjoin/aero/key"
 )
 
 type CacheLogger struct {

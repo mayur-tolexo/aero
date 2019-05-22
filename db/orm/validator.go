@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/rightjoin/aero/ds"
-	"github.com/rightjoin/aero/refl"
-	"github.com/rightjoin/aero/str"
+	"github.com/mayur-tolexo/aero/ds"
+	"github.com/mayur-tolexo/aero/refl"
+	"github.com/mayur-tolexo/aero/str"
 )
 
 func Insertable(modl interface{}, data map[string]string) (bool, []error) {
